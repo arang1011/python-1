@@ -1,0 +1,22 @@
+i=1
+for i in range(11):
+    if(i==1):
+        print(i)
+    if(i==2):
+        print(i)
+    if(i==3):
+        print("짝")
+    if(i==4):
+        print(i)
+    if(i==5):
+        print(i)
+    if(i==6):
+        print("짝")
+    if(i==7):
+        print(i)
+    if(i==8):
+        print(i)
+    if(i==9):
+        print("짝")
+    if(i==10):
+        print(i)
